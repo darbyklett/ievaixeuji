@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nohseecaim.rachelviniar.com/sitemap.xml
